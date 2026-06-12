@@ -1,12 +1,17 @@
-# 👋 Hi, I'm Nisa Iqbal
-
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0d1f3c&height=220&section=header&text=NISA%20IQBAL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ERPNext%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0d1f3c&height=250&section=header&text=NISA%20IQBAL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ERPNext%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn"/>
+
+# 👋 Hi, I'm Nisa Iqbal
 
 ### Building scalable applications and intelligent solutions through clean code and continuous learning.
 
-![](https://komarev.com/ghpvc/?username=nisaiqbal000\&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ERPNext+Developer;AI+Enthusiast;Building+Scalable+Solutions;Always+Learning+Something+New" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nisaiqbal000&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
 
@@ -14,15 +19,15 @@
 
 ## 🌟 Professional Summary
 
-Software Engineer with experience in **ERPNext customization, Frappe development, Linux server management, and modern web application development**.
+Software Engineer with hands-on experience in **ERPNext customization, Frappe development, Linux server management, and modern web application development**.
 
-Passionate about building scalable systems, automating business workflows, and solving real-world problems through technology.
+I enjoy building scalable systems, automating business workflows, and solving real-world problems through technology.
 
-* 💼 Full Stack Developer at **Tech in Tax**
-* 📍 Karachi, Pakistan
-* 🎓 BS Software Engineering (2022–2025)
-* 🚀 Open to Full Stack and ERP Development Opportunities
-* 🤖 Exploring AI-powered solutions and automation
+- 💼 Full Stack Developer at **Tech in Tax**
+- 📍 Karachi, Pakistan
+- 🎓 BS Software Engineering Graduate
+- 🚀 Open to Full Stack & ERP Opportunities
+- 🤖 Passionate about AI and Automation
 
 ---
 
@@ -30,178 +35,191 @@ Passionate about building scalable systems, automating business workflows, and s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisa_Iqbal-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nisa-iqbal/)
+<a href="https://www.linkedin.com/in/nisa-iqbal/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Nisa_Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nisaiqbal000-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/nisaiqbal000)
+<a href="https://github.com/nisaiqbal000" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-nisaiqbal000-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Nisaiqbal000@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Nisaiqbal000@gmail.com)
+<a href="mailto:Nisaiqbal000@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750329-4906b6ee-3f7e-4e6d-9c96-51f9d9f0a0f9.gif" width="100%">
+
 # 💼 Professional Experience
 
-## Full Stack Developer — Tech in Tax
-
+## 💻 Full Stack Developer — Tech in Tax
 **March 2026 – Present**
 
-* Developed and customized ERPNext applications using the Frappe Framework.
-* Automated workflows and business processes.
-* Designed and maintained reports tailored to organizational needs.
-* Managed MariaDB databases for reliable data handling.
-* Deployed and maintained Linux-based environments.
-* Collaborated with teams to deliver scalable business solutions.
+- Customized ERPNext applications using Frappe Framework
+- Automated business workflows
+- Developed custom reports
+- Managed MariaDB databases
+- Maintained Linux servers
+- Collaborated with teams to deliver scalable solutions
 
 ---
 
-## Social Media Executive — ISP
-
+## 📱 Social Media Executive — ISP
 **January 2025 – August 2025**
 
-* Managed multi-platform social media presence.
-* Planned and executed content strategies.
-* Analyzed performance metrics to improve engagement.
-* Coordinated campaigns to strengthen brand visibility.
+- Managed multi-platform social media campaigns
+- Planned content strategies
+- Improved engagement through analytics
 
 ---
 
-## Marketing Executive — UMAX (Remote)
-
+## 🌐 Marketing Executive — UMAX (Remote)
 **September 2025 – February 2026**
 
-* Created marketing campaigns and promotional content.
-* Worked closely with clients to understand business objectives.
-* Monitored campaign performance and optimization.
+- Developed promotional campaigns
+- Collaborated with clients
+- Optimized marketing performance
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750329-4906b6ee-3f7e-4e6d-9c96-51f9d9f0a0f9.gif" width="100%">
 
 # 🚀 Featured Projects
 
 ## 🔐 CyberRazor — AI Cybersecurity Assistant
 
-AI-powered cybersecurity CLI designed to assist in threat detection and automated remediation.
+AI-powered CLI tool for automated threat detection and remediation.
 
-### Highlights
+### Features
 
-* Automated security auditing
-* AI-assisted vulnerability analysis
-* Log interpretation and threat detection
-* Remediation recommendations
+- AI-assisted vulnerability analysis
+- Security auditing
+- Threat detection
+- Remediation suggestions
 
-**Technologies:** Python • Generative AI • Security Automation
+**Tech Stack:** Python • Generative AI • Security Automation
 
 ---
 
 ## ⚙ ERPNext Customization & Automation
 
-Developed customized ERP solutions tailored to business requirements.
+Customized ERP solutions designed around business requirements.
 
-### Highlights
+### Features
 
-* Workflow customization
-* Report development
-* Business process automation
-* ERP optimization
+- Workflow customization
+- Business process automation
+- Custom reporting
+- ERP optimization
 
-**Technologies:** ERPNext • Frappe • MariaDB
+**Tech Stack:** ERPNext • Frappe • MariaDB
 
 ---
 
 ## 🛒 E-Commerce Marketplace
 
-Modern e-commerce platform built from design to deployment.
+Modern marketplace developed from design to deployment.
 
-### Highlights
+### Features
 
-* Responsive user experience
-* Dynamic product management
-* CMS integration
-* Optimized deployment workflow
+- Responsive UI
+- CMS integration
+- Product management
+- Optimized deployment
 
-**Technologies:** Next.js • TypeScript • Sanity • Vercel
+**Tech Stack:** Next.js • TypeScript • Sanity • Vercel
 
-Repository:
+🔗 Repository:
 https://github.com/nisaqbal991/E-commerce-web
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750329-4906b6ee-3f7e-4e6d-9c96-51f9d9f0a0f9.gif" width="100%">
+
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
 
----
+### Frameworks
 
-## Frameworks & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker" />
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
+### ERP & Databases
 
----
+<p>
+<img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-## Databases
+### Tools
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
----
+### AI
 
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![VS\_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-0066CC?style=for-the-badge)
-![WinSCP](https://img.shields.io/badge/WinSCP-4D4D4D?style=for-the-badge)
-
----
-
-## AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Prompt\_Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
-![Agentic\_AI](https://img.shields.io/badge/Agentic_AI-9333EA?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+</p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750329-4906b6ee-3f7e-4e6d-9c96-51f9d9f0a0f9.gif" width="100%">
 
 # 🎓 Education
 
-| Degree                  | Institution                             | Duration    |
-| ----------------------- | --------------------------------------- | ----------- |
-| BS Software Engineering | Jinnah University for Women             | 2022 – 2025 |
-| Intermediate (FSC)      | Govt. Degree Girls College, Buffer Zone | 2018 – 2020 |
+| Degree | Institution | Duration |
+|----------|-------------|-----------|
+| BS Software Engineering | Jinnah University for Women | 2022 – 2025 |
+| Intermediate (FSC) | Govt. Degree Girls College, Buffer Zone | 2018 – 2020 |
 
 ---
 
 # 🏆 Certifications & Achievements
 
-* ✅ AI Employee — Silver Tier
-* ✅ Anthropic Academy Coursework
-* ✅ GitHub Pull Shark Achievement
+- ✅ AI Employee – Silver Tier
+- ✅ Anthropic Academy Coursework
+- ✅ GitHub Pull Shark Achievement
 
 ---
 
-# 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/74038190/212750329-4906b6ee-3f7e-4e6d-9c96-51f9d9f0a0f9.gif" width="100%">
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nisaiqbal000&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nisaiqbal000&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaiqbal000&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nisaiqbal000&show_icons=true&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=nisaiqbal000&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisaiqbal000&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisaiqbal000&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -211,7 +229,7 @@ https://github.com/nisaqbal991/E-commerce-web
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nisaiqbal000&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=nisaiqbal000&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -219,11 +237,43 @@ https://github.com/nisaqbal991/E-commerce-web
 
 # 🐍 Contribution Snake
 
-<div align="center">
+> ⚠️ To enable this animation, create a GitHub Action workflow (`.github/workflows/snake.yml`) because it cannot work with README code alone.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+```yaml
+name: Generate Snake
 
-</div>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: nisaiqbal000
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+````
+
+Then add:
+
+```md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nisaiqbal000/nisaiqbal000/output/github-contribution-grid-snake.svg"/>
+</p>
+```
 
 ---
 
@@ -234,3 +284,8 @@ https://github.com/nisaqbal991/E-commerce-web
 *"Turning ideas into scalable solutions through clean code and continuous learning."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0d1f3c&height=120&section=footer"/>
+
+```
+```
